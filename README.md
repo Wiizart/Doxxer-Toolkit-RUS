@@ -36,6 +36,10 @@ git clone https://github.com/Wiizart/Doxxer-Toolkit-RUS
 
 ls
 
+cd Doxxer-Toolkit-RUS
+
+ls
+
 clear
 
 chmod +x *
